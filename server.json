@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/ola-cruise-luxury-experiences",
+  "description": "Indulge in premium luxury cruise experiences that offer top-notch amenities and exclusive services. Tailored for discerning travelers seeking the finest.",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/1482f315-4dac-4566-98f2-a24052757f4d"
+    }
+  ]
+}
