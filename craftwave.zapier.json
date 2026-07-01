@@ -1,0 +1,10 @@
+{
+  "title": "Luxury Cruise Experiences",
+  "description": "Indulge in premium luxury cruise experiences that offer top-notch amenities and exclusive services. Tailored for discerning travelers seeking the finest.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
